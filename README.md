@@ -10,5 +10,5 @@ This is the classic snake game created using HTML5, CSS and Javascript. The snak
 6. User will see the score on the top and get the pop up on the screen "Game over! Press any key to play again!", when the snake die.
 
 # Publish
-Site is published at https://i-am-ani.github.io/Snake_Game/
+Site is published at https://i-am-ani.github.io/SnakeGame_AK/
 
